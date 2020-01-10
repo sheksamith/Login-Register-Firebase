@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458123639676",
+    "firebase_url": "https://login-c82dd.firebaseio.com",
+    "project_id": "login-c82dd",
+    "storage_bucket": "login-c82dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458123639676:android:89489a5c01dd1cc344c2f9",
+        "android_client_info": {
+          "package_name": "com.samith.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458123639676-2qghh83fr8eaq3rai6re3ntmc8ce8ain.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8VdyWk5TpD1b7JWp6lqZcVVMa5UmN-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458123639676-2qghh83fr8eaq3rai6re3ntmc8ce8ain.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
